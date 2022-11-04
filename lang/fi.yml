@@ -1,0 +1,5 @@
+fi:
+  HcaptchaField:
+    EMPTY: Captcha-kenttä tulee täyttää
+    VALIDSOLUTION: Vastauksesi ei ollut sama kuin captcha-kentässä olleet sanat. Yritä uudelleen.
+    NORESPONSE: Tekninen virhe: Hcaptcha-palvelu ei vastaa. Yritä myöhemmin uudelleen.

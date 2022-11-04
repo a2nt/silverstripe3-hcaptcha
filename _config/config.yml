@@ -1,0 +1,4 @@
+HcaptchaField:
+  Hcaptcha_js_url: 'https://js.hcaptcha.com/1/api.js'
+  api_verify_server: 'https://hcaptcha.com/siteverify'
+  httpclient_class: 'HcaptchaField_HTTPClient'
